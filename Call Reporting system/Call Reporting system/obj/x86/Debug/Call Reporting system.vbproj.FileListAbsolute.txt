@@ -1,0 +1,108 @@
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/ResolveAssemblyReference.cache
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.read.1.tlog
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.write.1.tlog
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+G:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/ResolveAssemblyReference.cache
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.read.1.tlog
+E:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.write.1.tlog
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/ResolveAssemblyReference.cache
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.read.1.tlog
+F:/TAFE/it stage 2/VB10/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/Users/Khaled Zarif/Documents/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.write.1.tlog
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/ResolveAssemblyReference.cache
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.read.1.tlog
+F:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/Users/bash/Desktop/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.write.1.tlog
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/ResolveAssemblyReference.cache
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.read.1.tlog
+E:/Bash's Call reporting form/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+C:/Users/bash/Desktop/Bash's Call reporting form update/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.vbprojAssemblyReference.cache
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Form1.resources
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.report.resources
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.vbproj.GenerateResource.cache
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.exe
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.xml
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.pdb
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call_Reporting_system.Resources.resources
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/obj/x86/Debug/Call Reporting system.vbproj.CoreCompileInputs.cache
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.exe
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.pdb
+/Volumes/TOSHIBA EXT/old hdd/TAFE/IT stage 2/VB10/Bash's Call reporting form update/Call Reporting system/Call Reporting system/bin/Debug/Call Reporting system.xml

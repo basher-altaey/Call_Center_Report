@@ -1,0 +1,11 @@
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\bin\Debug\Report.exe
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\bin\Debug\Report.pdb
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\bin\Debug\Report.xml
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\obj\x86\Debug\Report.Resources.resources
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\obj\x86\Debug\Report.exe
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\obj\x86\Debug\Report.xml
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\obj\x86\Debug\Report.pdb
+G:\TAFE\it stage 2\VB10\Call Reporting system\Report\obj\x86\Debug\Report.repote.resources
