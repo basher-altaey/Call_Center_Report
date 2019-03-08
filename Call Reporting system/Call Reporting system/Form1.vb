@@ -183,7 +183,6 @@ Public Class Form1
             formstreamreader.Close()
         Catch
 
-            MessageBox.Show("NOT WORKING")
         End Try
 
 
